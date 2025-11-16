@@ -1,0 +1,37 @@
+body {
+  color: rgb(229, 245, 233);
+  background-image: url('giphy.gif'); /* animated background */
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+h1 {
+  font-size: 80px;
+  letter-spacing: 2px;
+  word-spacing: 4%;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* Text Shadow */
+  text-shadow: 6px 0px 0px rgba(78, 17, 231, 0.849);
+}
+
+
+/* Image (logo or head image) */
+#Design {
+  width: 40px;           
+  margin-top: 20px;
+}
+
+.tt {
+  padding: 10px 14px;
+  background: rgb(237, 242, 246);
+  border: 2px solid rgb(78, 27, 228);  /* fixed border */
+  border-radius: 5px;
+  color: rgb(49, 24, 239);
+  front-weight: 800;
+}
+
+/* Underline text */
+#Underline {
+  border-bottom: 2px solid white;
+}
