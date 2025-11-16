@@ -1,6 +1,6 @@
 body {
   color: rgb(229, 245, 233);
-  background-image: url('giphy.gif'); /* animated background */
+  background-image: url('giphy.gif'); 
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -16,7 +16,7 @@ h1 {
 }
 
 
-/* Image (logo or head image) */
+
 #Design {
   width: 40px;           
   margin-top: 20px;
@@ -25,7 +25,7 @@ h1 {
 .tt {
   padding: 10px 14px;
   background: rgb(237, 242, 246);
-  border: 2px solid rgb(78, 27, 228);  /* fixed border */
+  border: 2px solid rgb(78, 27, 228);  
   border-radius: 5px;
   color: rgb(49, 24, 239);
   front-weight: 800;
@@ -35,3 +35,4 @@ h1 {
 #Underline {
   border-bottom: 2px solid white;
 }
+
